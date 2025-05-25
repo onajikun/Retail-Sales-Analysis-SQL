@@ -24,6 +24,6 @@ This project simulates a real-world retail business scenario, analyzing performa
 - `data/`: CSVs for all tables
 - `sql_queries/`: Clean and documented SQL scripts
 
-- ## 📬 Connect With Me
+## 📬 Connect With Me
 
 Feel free to reach out or connect with me on [LinkedIn](https://www.linkedin.com/in/adrianc62/) if you'd like to discuss data analytics, SQL projects, or career opportunities.
